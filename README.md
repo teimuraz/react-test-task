@@ -22,11 +22,12 @@ Please create simple contacts management app.
 * Edit contact button should navigate to new screen that will allow editing of a contact and saving it.
 * Favourite button should add contact to list of favourites.
 * Create "Favourites" view that only displays favourited contacts.
-* Save state in local storage.
+* All data should be stored locally (local storage)
 
 #### Additionally
 * Please use React and Redux for this app.
 * You can add any modules that you required for the tasks or if you wanna add something.
 * For UI you can use any library of your choice (for example, bootstrap)
+* "Favourite" feature is optional, implement it if you have enough time.
 
 Good Luck!
